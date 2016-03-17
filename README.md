@@ -26,4 +26,7 @@ How to Play:
 Move the player (using the arrow keys) to collect the key and the gem in the level
 to open the door to the next level. Be careful not to get hit by the enemies! =)
 
+_Note: Since there is currently only one level to this game, collecting the gem and key and moving to the door will reset
+the player to the default starting position. I have two additional levels planned for this game that will be added in the near
+future. Happy playing! =)_
 
