@@ -30,3 +30,5 @@ _Note: Since there is currently only one level to this game, collecting the gem 
 the player to the default starting position. I have two additional levels planned for this game that will be added in the near
 future. Happy playing! =)_
 
+_Note 2: The game is currently not playable on mobile just yet, but I will also be adding the touch functionality in the future
+
