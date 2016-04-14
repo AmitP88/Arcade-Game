@@ -5,6 +5,11 @@ Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015
 
 for self-checking their submission.
 
+Play the game at:
+
+http://amitp88.github.io/Arcade-Game/
+
+or
 
 Download the game at: 
 
